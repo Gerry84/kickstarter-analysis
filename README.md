@@ -6,7 +6,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Analysis and Challenges
 Performed an analysis on the parent category theaters by breaking the outcomes into "succesfull", "failed", and "canceled" and analyzing the data per month.
-The outcomes are predomenantly successful with some failed and little canceld. The main challange was to format the pivot table.
+The outcomes are predomenantly successful with some failed and little canceld. The main challenge was to format the pivot table.
 
 ![Theater_Outcomes_vs_Launch](https://github.com/Gerry84/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 

@@ -15,14 +15,14 @@ A further analysis was done on Outcomes Based on Goals in the subcategory "plays
 ![Outcomes_vs_Goals](https://github.com/Gerry84/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 ## Results
-* What are two conclusions you can draw about the Theater Outcomes based on Launch Date?
-  First conculsion is that launches have been predominately successful
-  There have been very little cancelation
-* What can you conclude about the Outcomes based on Goals?
-  There have been no cancelations
-* What are some limitations of this dataset?
-  We cannot see when the launch was canceled
-  Results are provided in different currencies
-* What are some other possible tables and/or graphs that we could create?
-  Graph and tables of different subcategories
-  Analysis on which categories got canceled or failed the most
+* What are two conclusions you can draw about the Theater Outcomes based on Launch Date?/n
+  First conculsion is that launches have been predominately successful/n
+  There have been very little cancelation/n
+* What can you conclude about the Outcomes based on Goals?/n
+  There have been no cancelations/n
+* What are some limitations of this dataset?/n
+  We cannot see when the launch was canceled/n
+  Results are provided in different currencies/n
+* What are some other possible tables and/or graphs that we could create?/n
+  Graph and tables of different subcategories/n
+  Analysis on which categories got canceled or failed the most/n

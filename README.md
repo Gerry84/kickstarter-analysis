@@ -10,6 +10,7 @@ The outcomes are predomenantly successful with some failed and little canceld. T
 
 ![Theater_Outcomes_vs_Launch](https://github.com/Gerry84/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
+
 A further analysis was done on Outcomes Based on Goals in the subcategory "plays". The data shows mixed results for successful and failed launches and there haven't been any canceled launches in this category. A challenge was to create formulas without using hardcoded information.
 
 ![Outcomes_vs_Goals](https://github.com/Gerry84/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
